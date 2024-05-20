@@ -8,12 +8,25 @@
 
 После успешной установки перейдем к созданию проекта scrapy
 ![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/e32c0f2e-7a61-4e50-9369-b024db1eadef)
-![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/c1083c81-8692-435c-91cd-d8bced2aa0e0)
+![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/64924ddf-9ce4-4db8-916c-0b371904374d)
+
 
 Найдем элемент для парсинга
 ![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/289e055d-29c3-4ac7-8829-a6231582807b)
 
+Изменим функцию парсинга
+![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/5b2ce96b-8a18-4734-a2ce-f7bd6e1a8c2f)
+
+Вывод информации в консоль 
+![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/189e54df-914d-4cf9-8e56-f1ce68eca6d0)
 
 # Задание 2. Подготовить датасет и произвести его анализ
+
+Для создания датасета изменим код паука для вывода информации о каждом файле в .csv файл
+![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/160f6659-2ed0-47fd-a71e-3a001987f306)
+
+Импортируем полученный файл в Excel
+![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/0f61ef98-26d9-4851-81b1-6c534c778c00)
+
 # Задание 3. Изучить возможности средства Metasploit
 # Задание 4. Изучить возможности средств OSINT
