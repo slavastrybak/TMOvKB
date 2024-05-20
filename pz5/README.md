@@ -10,7 +10,6 @@
 ![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/e32c0f2e-7a61-4e50-9369-b024db1eadef)
 ![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/64924ddf-9ce4-4db8-916c-0b371904374d)
 
-
 Найдем элемент для парсинга
 ![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/289e055d-29c3-4ac7-8829-a6231582807b)
 
@@ -29,4 +28,10 @@
 ![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/0f61ef98-26d9-4851-81b1-6c534c778c00)
 
 # Задание 3. Изучить возможности средства Metasploit
+![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/36b501a8-fb69-420b-9742-144f1f910539)
+
 # Задание 4. Изучить возможности средств OSINT
+К сожалению, доступ к комнате закрыт, так как она открывается только по подписке. Однако, с помощью одногруппников всё же удалось изучить материал используя их аккаунт.
+![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/d8c39065-bfc7-4068-9b3d-df3beeb715b1)
+![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/cfdec7de-6b64-4a03-bdd7-b966cd292cfd)
+
