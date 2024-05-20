@@ -32,6 +32,7 @@
 
 # Задание 4. Изучить возможности средств OSINT
 К сожалению, доступ к комнате закрыт, так как она открывается только по подписке. Однако, с помощью одногруппников всё же удалось изучить материал используя их аккаунт.
+
 ![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/d8c39065-bfc7-4068-9b3d-df3beeb715b1)
 ![image](https://github.com/slavastrybak/TMOvKB/assets/70744558/cfdec7de-6b64-4a03-bdd7-b966cd292cfd)
 
